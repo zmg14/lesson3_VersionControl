@@ -5,16 +5,14 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 29, 2017
 
 ## Student Name:  
-(First and Last Name)
+Zachary Greene
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
-
+Lesson 3, explain Five key concepts and publish on a Github page.
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Different git states/stages
+2. How to clone a repository
+3. How to record changes to repository
